@@ -1,16 +1,23 @@
-## Hi there 👋
+# Virok
 
-<!--
-**v1r0k/v1r0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analisys. SQL, Python, Power BI.
 
-Here are some ideas to get you started:
+## Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL**: PostgreSQL, оконки, CTE, self-join
+- **Python**: pandas, numpy, matplotlib
+- **BI**: Power BI, DAX
+- **Другое**: Git, Jupyter
+
+## Проекты
+
+### [AB-NYC-2019 Analysis](https://github.com/v1r0k/AB-NYC-2019-analisys)
+Анализ объявлений Airbnb в Нью-Йорке.
+- 215 SQL-запросов
+- Анализ в pandas
+- Дашборд в Power BI
+
+## Контакты
+
+- Telegram: @v1r0k
+
