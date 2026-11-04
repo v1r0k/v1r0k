@@ -1,6 +1,6 @@
 # v1r0k
 
-Data Analysis. SQL, Python, Power BI.
+Data Analyst. SQL, Python, Power BI.
 
 ## Проекты
 
